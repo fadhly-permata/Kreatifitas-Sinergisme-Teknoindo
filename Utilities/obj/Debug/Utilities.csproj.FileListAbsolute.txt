@@ -1,0 +1,6 @@
+D:\- WorkOut\- int\Kreatifitas Sinergisme Teknoindo\apps\Utilities\bin\Debug\Utilities.dll
+D:\- WorkOut\- int\Kreatifitas Sinergisme Teknoindo\apps\Utilities\bin\Debug\Utilities.pdb
+D:\- WorkOut\- int\Kreatifitas Sinergisme Teknoindo\apps\Utilities\obj\Debug\Utilities.csproj.CoreCompileInputs.cache
+D:\- WorkOut\- int\Kreatifitas Sinergisme Teknoindo\apps\Utilities\obj\Debug\Utilities.dll
+D:\- WorkOut\- int\Kreatifitas Sinergisme Teknoindo\apps\Utilities\obj\Debug\Utilities.pdb
+D:\- WorkOut\- int\Kreatifitas Sinergisme Teknoindo\apps\Utilities\obj\Debug\Utilities.csprojAssemblyReference.cache

@@ -1,0 +1,14 @@
+D:\- WorkOut\- int\Kreatifitas Sinergisme Teknoindo\apps\SortingName\bin\Debug\SortingName.exe.config
+D:\- WorkOut\- int\Kreatifitas Sinergisme Teknoindo\apps\SortingName\bin\Debug\SortingName.exe
+D:\- WorkOut\- int\Kreatifitas Sinergisme Teknoindo\apps\SortingName\bin\Debug\SortingName.pdb
+D:\- WorkOut\- int\Kreatifitas Sinergisme Teknoindo\apps\SortingName\bin\Debug\Business.dll
+D:\- WorkOut\- int\Kreatifitas Sinergisme Teknoindo\apps\SortingName\bin\Debug\Data.dll
+D:\- WorkOut\- int\Kreatifitas Sinergisme Teknoindo\apps\SortingName\bin\Debug\Data.pdb
+D:\- WorkOut\- int\Kreatifitas Sinergisme Teknoindo\apps\SortingName\bin\Debug\Business.pdb
+D:\- WorkOut\- int\Kreatifitas Sinergisme Teknoindo\apps\SortingName\obj\Debug\SortingName.csprojAssemblyReference.cache
+D:\- WorkOut\- int\Kreatifitas Sinergisme Teknoindo\apps\SortingName\obj\Debug\SortingName.csproj.CoreCompileInputs.cache
+D:\- WorkOut\- int\Kreatifitas Sinergisme Teknoindo\apps\SortingName\obj\Debug\SortingName.csproj.CopyComplete
+D:\- WorkOut\- int\Kreatifitas Sinergisme Teknoindo\apps\SortingName\obj\Debug\SortingName.exe
+D:\- WorkOut\- int\Kreatifitas Sinergisme Teknoindo\apps\SortingName\obj\Debug\SortingName.pdb
+D:\- WorkOut\- int\Kreatifitas Sinergisme Teknoindo\apps\SortingName\bin\Debug\Utilities.dll
+D:\- WorkOut\- int\Kreatifitas Sinergisme Teknoindo\apps\SortingName\bin\Debug\Utilities.pdb

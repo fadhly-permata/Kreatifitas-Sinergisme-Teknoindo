@@ -1,0 +1,9 @@
+D:\- WorkOut\- int\Kreatifitas Sinergisme Teknoindo\apps\Data\bin\Debug\Data.dll
+D:\- WorkOut\- int\Kreatifitas Sinergisme Teknoindo\apps\Data\bin\Debug\Data.pdb
+D:\- WorkOut\- int\Kreatifitas Sinergisme Teknoindo\apps\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+D:\- WorkOut\- int\Kreatifitas Sinergisme Teknoindo\apps\Data\obj\Debug\Data.dll
+D:\- WorkOut\- int\Kreatifitas Sinergisme Teknoindo\apps\Data\obj\Debug\Data.pdb
+D:\- WorkOut\- int\Kreatifitas Sinergisme Teknoindo\apps\Data\obj\Debug\Data.csprojAssemblyReference.cache
+D:\- WorkOut\- int\Kreatifitas Sinergisme Teknoindo\apps\Data\bin\Debug\Utilities.dll
+D:\- WorkOut\- int\Kreatifitas Sinergisme Teknoindo\apps\Data\bin\Debug\Utilities.pdb
+D:\- WorkOut\- int\Kreatifitas Sinergisme Teknoindo\apps\Data\obj\Debug\Data.csproj.CopyComplete
